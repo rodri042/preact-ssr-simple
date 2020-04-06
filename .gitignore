@@ -1,0 +1,16 @@
+# Compiled code
+dist
+
+# Dependency directory
+node_modules
+
+# History files
+.history
+
+# The .env file
+.env
+
+# Cache files
+.cache
+
+*.sublime-workspace
